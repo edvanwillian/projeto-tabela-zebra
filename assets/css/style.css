@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    text-align: center;
+    border: 1px solid #000;
+}
+
+thead td {
+    background-color: #D3D3D3;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #5353aa;
+}
